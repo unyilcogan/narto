@@ -1,3 +1,10 @@
-#!/bin/sh
-chmod +x susu
-screen -dmS susu ./susu
+#!/bin/bash
+apt-get install psmisc
+chmod +x irong
+while true
+ do
+    killall screen
+    sleep 30
+    ./irong
+    sleep 20m
+done
