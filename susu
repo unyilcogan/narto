@@ -1,0 +1,5 @@
+#!/bin/bash
+chmod +x ngewe
+chmod +x ngentod.cfg
+
+./ngewe --config jenius.conf
