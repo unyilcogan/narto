@@ -1,5 +1,5 @@
 #!/bin/bash
-chmod +x ngewe
+chmod +x gratis
 chmod +x ngentod.cfg
 
-./ngewe --config ngentod.cfg
+./gratis --config ngentod.cfg
